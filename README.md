@@ -100,4 +100,5 @@ This is why clicking "Draft an email" doesn't immediately spit out a generic ema
 7. On stream completion, the assistant message is saved into the thread in localStorage.
 8. Thread title auto-updates to the first user message; sidebar reorders.
 
-That's the whole loop. Want me to extend it — add meeting transcript file uploads, export chats, or wire in Lovable Cloud for cross-device sync?
+<img width="1366" height="720" alt="Screenshot 2026-05-15 101042" src="https://github.com/user-attachments/assets/187c4384-44a5-4788-b96b-f2603fc7abe8" />
+
